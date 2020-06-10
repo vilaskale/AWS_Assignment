@@ -1,0 +1,3 @@
+{
+    "QueueURL" : "https://sqs.ap-south-1.amazonaws.com/629674879386/ScheduleReportQueue.fifo"
+}

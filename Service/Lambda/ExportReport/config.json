@@ -1,0 +1,4 @@
+{
+    "QueueURL" : "https://sqs.ap-south-1.amazonaws.com/629674879386/ExportReportQueue.fifo",
+    "DB_URL": "mongodb+srv://cluster_user:WM8ZM7rBA6SqUsu@cluster0-j412i.mongodb.net/cluster_test?retryWrites=true&w=majority"
+}

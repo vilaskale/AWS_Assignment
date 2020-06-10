@@ -1,0 +1,15 @@
+Name: 	ExportReportQueue.fifo 	
+Default Visibility Timeout: 	30 seconds
+URL: 	https://sqs.ap-south-1.amazonaws.com/629674879386/ExportReportQueue.fifo 	
+Message Retention Period: 	4 days
+ARN: 	arn:aws:sqs:ap-south-1:629674879386:ExportReportQueue.fifo 	
+Maximum Message Size: 	256 KB
+Created: 	2020-06-08 19:52:24 GMT+05:30 	
+Receive Message Wait Time: 	0 seconds
+Last Updated: 	2020-06-10 12:08:44 GMT+05:30 	
+Messages Available (Visible): 	0
+Delivery Delay: 	0 seconds 	
+Messages in Flight (Not Visible): 	0
+Queue Type: 	FIFO 	
+Messages Delayed: 	0
+Content-Based Deduplication: 	Disabled 		
