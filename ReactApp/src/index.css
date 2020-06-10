@@ -1,0 +1,21 @@
+body{
+  background-color: #eee;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+input[type=checkbox], input[type=radio] {
+  margin: 4px 12px 5px;
+  margin-top: 1px\9;
+  line-height: normal;
+}
+.rw-list {
+  list-style: none;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
