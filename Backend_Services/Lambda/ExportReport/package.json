@@ -11,6 +11,6 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "json2csv": "^5.0.1",
-    "mongoose": "^5.9.18"
+    "mongoose": "^5.13.15"
   }
 }
